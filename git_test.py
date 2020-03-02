@@ -5,6 +5,6 @@
 #Begin infinite loop:
 
 i = 1
-while i == 1:
-  print('Hello world.')
-  i = 1
+while i <= 10:
+  print('Team Data PsuedoCyntists.')
+  i += 1
